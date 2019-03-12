@@ -1,6 +1,5 @@
 {
     "require": {
-       "guzzlehttp/guzzle": "~6.0",
-        "twig/twig": "^2.0"
+       "guzzlehttp/guzzle": "~6.0"
     }
  }
